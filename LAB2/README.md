@@ -42,7 +42,7 @@ Generative Adversarial Network (GAN)
     
               Generate 100 synthetic images.
               
-              Evaluate the GAN using FID and Inception Score.
+              Evaluate the GAN using Inception Score.
               
               Perform a visual comparison of real and generated images.
 
